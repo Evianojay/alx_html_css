@@ -23,7 +23,7 @@ This project consists of a single HTML file styled with an external CSS file and
 - **CSS3**
 - **Font Awesome** for icons (via CDN)
 - **Google Fonts** *(if used in `styles.css`)*
-- **Responsive Design** principles (if implemented)
+- **Responsive Design** principles
 
 ## 🚀 How to Use
 
