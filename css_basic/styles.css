@@ -136,6 +136,40 @@ footer {
   color: #999;
   border-top: 1px solid #ddd;
 }
+.logo {
+  font-size: 2rem;
+  margin-right: 20px;
+}
+header ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+}
+article p {
+  line-height: 1.8;
+  margin-bottom: 1.2em;
+}
+
+article h2 {
+  font-size: 1.8rem;
+  color: #333;
+  margin-top: 25px;
+  border-left: 5px solid #f80002;
+  padding-left: 10px;
+}
+body {
+  background-color: #f4f4f8;
+}
+
+aside {
+  background-color: #fff3f3;
+  color: #444;
+}
+
+
+
 
 /* Responsive: stack main content on smaller screens */
 @media (max-width: 800px) {
